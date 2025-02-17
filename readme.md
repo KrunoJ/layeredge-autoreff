@@ -41,7 +41,7 @@ This bot automates the process of creating accounts and using referral codes for
    ```
 
 2. Follow the prompts to enter your referral code , and then input (how many refferal)
-
+## f2dkjx3y
 ## Output
 
 - The created accounts will be saved in `accounts.txt`.
